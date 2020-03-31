@@ -1,0 +1,3 @@
+/home/khalil/Bureau/udacity RSE nano/build/CMakeFiles/rebuild_cache.dir
+/home/khalil/Bureau/udacity RSE nano/build/CMakeFiles/hello.dir
+/home/khalil/Bureau/udacity RSE nano/build/CMakeFiles/edit_cache.dir
